@@ -24,7 +24,7 @@ Project is created with:
 ## Setup
 Step 1:
 * virtualenv venv
-* venv/bin/activate
+* source venv/bin/activate
 
 Step 2:\
 pip install -r requirements.txt
